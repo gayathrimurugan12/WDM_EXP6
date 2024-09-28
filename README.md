@@ -78,6 +78,6 @@ for result in search_results:
     i=i+1
 ```
 ### Output:
-![web ex6pic](https://github.com/user-attachments/assets/57276215-a161-4514-93d7-36121564c6d6)
+![output ex6web](https://github.com/user-attachments/assets/26df98f6-2e5a-40cd-b25b-6d7a131decec)
 
 ### Result:
